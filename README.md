@@ -5,25 +5,25 @@ In this notebook, we will discover and explore data from the stock market, parti
 
 **plot for predictions**
 
-<p align="center">
-  <img width="600" height="200" src="https://github.com/yoshitapant29/Stock-Price-Prediction/assets/116386057/59f75082-3634-4b61-85f3-42aa8b24cf73">
+<p align="left">
+  <img width="400" height="200" src="https://github.com/yoshitapant29/Stock-Price-Prediction/assets/116386057/59f75082-3634-4b61-85f3-42aa8b24cf73">
 </p>
 
 **inverse transform**
 
-<p align="center">
-  <img width="600" height="200" src="https://github.com/yoshitapant29/Stock-Price-Prediction/assets/116386057/ec2b6091-e8f0-4ec2-a34d-863f1c35a3d2">
+<p align="left">
+  <img width="400" height="200" src="https://github.com/yoshitapant29/Stock-Price-Prediction/assets/116386057/ec2b6091-e8f0-4ec2-a34d-863f1c35a3d2">
 </p>
 
 **extending of 1st output**
-<p align="center">
-  <img width="600" height="200" src="https://github.com/yoshitapant29/Stock-Price-Prediction/assets/116386057/e4b00f90-7831-488a-9023-0e2e3ed833c1">
+<p align="left">
+  <img width="400" height="200" src="https://github.com/yoshitapant29/Stock-Price-Prediction/assets/116386057/e4b00f90-7831-488a-9023-0e2e3ed833c1">
 </p>
 
 **extending the inverse transform**
 
-<p align="center">
-  <img width="600" height="200" src="https://github.com/yoshitapant29/Stock-Price-Prediction/assets/116386057/ee2452c4-c73e-460d-979b-dfaf24f3bf46">
+<p align="left">
+  <img width="400" height="200" src="https://github.com/yoshitapant29/Stock-Price-Prediction/assets/116386057/ee2452c4-c73e-460d-979b-dfaf24f3bf46">
 </p>
 
 
